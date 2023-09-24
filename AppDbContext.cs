@@ -1,9 +1,9 @@
 ﻿using System;
-using Microsoft.EntityFrameworkCore; 
+using Microsoft.EntityFrameworkCore;
 using Task = TaskManager2.Models.Task;
 
 namespace TaskManager2
-{ 
+{
     public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
@@ -23,10 +23,11 @@ namespace TaskManager2
                     new Task
                     {
                         TaskId = i,
-                        Title = "Tesk " + i,
+                        Title = "Task " + i,
                         Description = "This is Task " + i,
                         DueDate = DateTime.Now,
-                        IsCompleted = true
+                        IsCompleted = (i % 2 == 0) 
+
                     }
                 );
             }

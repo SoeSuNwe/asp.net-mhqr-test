@@ -8,37 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManager2
 build_property.RootNamespace = TaskManager2
-build_property.ProjectDir = D:\ssn\Interview Testing\TaskManager2\TaskManager2\
+build_property.ProjectDir = d:\ssn\Interview Testing\TaskManager2\TaskManager2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ssn\Interview Testing\TaskManager2\TaskManager2
+build_property.MSBuildProjectDirectory = d:\ssn\Interview Testing\TaskManager2\TaskManager2
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Error.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Index.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Privacy.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/_ViewImports.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/_ViewStart.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Shared/_Layout.cshtml]
+[d:/ssn/Interview Testing/TaskManager2/TaskManager2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vbt9xnowh7
