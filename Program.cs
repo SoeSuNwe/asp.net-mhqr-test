@@ -1,7 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using TaskManager2;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+string connectionString = builder.Configuration.GetConnectionString("SQLiteConnection") ?? 
+    throw new InvalidOperationException("Connection string 'SQLiteConnection' not found.");
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite(connectionString));
+ 
 
 
 var app = builder.Build();

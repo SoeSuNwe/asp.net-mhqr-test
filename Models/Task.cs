@@ -1,7 +1,10 @@
-﻿namespace TaskManager2.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace TaskManager2.Models
 {
     public class Task
     {
+        [Key]
         public int TaskId { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
